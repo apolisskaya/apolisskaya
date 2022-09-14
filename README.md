@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi
+I'm Lexi (my real name is Alla and you can call me that if you know me from the before times) 👋
+
+### Who I Am
+✨ Currently a Senior Software Engineer at Octave ✨
+
+Previously a Software Engineer at Niche, Grove Collaborative and Cisco
+
 
 <!--
 **apolisskaya/apolisskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
