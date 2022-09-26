@@ -1,5 +1,5 @@
 ### Hi
-I'm Lexi (my real name is Alla and you can call me that if you know me from the before times) 👋
+I'm Lex/Lexi (my real name is Alla and you can call me that if you know me from the before times) 👋
 
 ### Who I Am
 ✨ Currently a Senior Software Engineer at Octave ✨
