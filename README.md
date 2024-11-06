@@ -20,7 +20,7 @@ Thy humble servant, a software engineer of the Shakespearian age, awaiteth the d
 
 ---
 
-✨ Currently a Senior Software Engineer at Octave ✨
+✨ Currently a Senior Software Engineer, Technical Lead at Octave ✨
 
 Previously a Software Engineer at Niche, Grove Collaborative and Cisco
 
