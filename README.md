@@ -24,6 +24,11 @@ Thy humble servant, a software engineer of the Shakespearian age, awaiteth the d
 
 Previously a Software Engineer at Niche, Grove Collaborative and Cisco
 
+---
+
+## GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apolisskaya&layout=donut&size_weight=0.2&count_weight=0.85&langs_count=5&theme=radical&hide_border=true&hide=cmake,makefile,c) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apolisskaya&hide_rank=true&show_icons=true&theme=radical&hide_border=true)
+
 
 <!--
 **apolisskaya/apolisskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
