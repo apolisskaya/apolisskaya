@@ -1,28 +1,26 @@
-Hark! Greetings, noble code enthusiasts! 🎭
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+To where it bent in the undergrowth;
 
-I, a humble software bard called Alla, doth present myself as a seeker of knowledge and a master of algorithms. 🔍💻
+Then took the other, as just as fair,
+And having perhaps the better claim,
+Because it was grassy and wanted wear;
+Though as for that the passing there
+Had worn them really about the same,
 
-With each line of code I script, I cast a spell of logic, weaving Python and Golang with finesse most poetic. 🌐📜
+And both that morning equally lay
+In leaves no step had trodden black.
+Oh, I kept the first for another day!
+Yet knowing how way leads on to way,
+I doubted if I should ever come back.
 
-In the realm of web development, I craft back-end sorceries, birthing digital wonders for all to behold. ✨🏰
-
-Beyond the realm of the keyboard, thou shall find me immersed in the classics of computer science, savoring the wisdom of Turing and von Neumann. 📚🤓
-
-Perchance, when the moon rises high, I embark on quests in open-source lands, contributing to the greater code tapestry. 🌕🌱
-
-Like a code architect, I design systems of elegance, where each function and class dance in harmony, a symphony of bytes. 🏛️🎶
-
-Hither and yon, I strive to bring forth software that delights, that maketh life simpler, and that inspires future generations. 🚀💡
-
-Let us join hands, fellow devs, and embark on a journey of digital creation, for together, we shall script a tale of technological marvels. 🤝📜
-
-Thy humble servant, a software engineer of the Shakespearian age, awaiteth the dawn of tomorrow's tech wonders! 🌅✨
-
----
-
-✨ Currently an Engineering Manager, previously a Senior Software Engineer at Octave ✨
-
-Previously a Software Engineer at Niche, Grove Collaborative and Cisco
+I shall be telling this with a sigh
+Somewhere ages and ages hence:
+Two roads diverged in a wood, and I—
+I took the one less traveled by,
+And that has made all the difference.
 
 ---
 
